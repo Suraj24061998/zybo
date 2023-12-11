@@ -1,0 +1,320 @@
+.home-img{
+    background: url(../Image/home1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.shop-now-btn{
+    text-decoration: none;
+    color: white;
+    background-color:#155E1E;
+    border-radius: 50px;
+    width:10%;
+    font-size:110% ;
+    padding: 15px;
+    margin-top: 2%
+}
+
+.home-text{
+    text-align: center;
+    padding-top: 13%;
+    padding-bottom: 20%;
+}
+.home-p{
+    font-size: 250%;
+    margin-top: 1%;
+}
+
+.end-btn {
+   
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color:#155E1E;
+    border-radius: 50px;
+    width:14%;
+    font-size:110% ;
+    padding: 15px;
+    margin-top: 2%;
+    border: none;
+    
+  }
+  
+  .end-btn i {
+   
+  background-color: #5b9b3ead;
+  padding: 10px;
+  border-radius: 100%;
+  margin-left: 5%;
+  }
+
+  .nav-nav{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 50px;
+    padding-left: 2%;
+  padding-right: 2%;
+  background-color:#ececec;
+  ;
+}
+.nav-link{
+    color: black;
+    font-size: larger;
+}
+.nav-img{
+    width: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.fixed-top {
+    position: fixed;
+    top: 2%;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  }
+ .card-text-1{
+  color: #06350C;
+font-family: Ubuntu;
+font-size: 40px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-left: 5%;
+
+ }
+ .card-text-2{
+  width: 380px;
+height: 267px;
+flex-shrink: 0;
+color: #3A3A3A;
+text-align: justify;
+font-family: Ubuntu;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+margin-left: 5%;
+ }
+.card1{
+  margin-top: 5%;
+}
+.card-img-1{
+ 
+  background-repeat: no-repeat;
+  margin-left: 40%;
+  width: 783px;
+height: 350px;
+flex-shrink: 0;
+margin-top: -37%;
+border: 90%;
+}
+.card-text-card-2{
+  color: #000;
+font-family: Ubuntu;
+font-size: 35px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-left: 40%;
+margin-top: -4%;
+}
+.card-content{
+  width: 24rem;
+  height: 36rem;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  position: relative;
+  color: color-primary-white;
+  box-shadow: 0 10px 30px 5px rgba(0, 0, 0, 0.2);
+}
+.center-3-text{
+  color: #155E1E;
+font-family: Ubuntu;
+font-size: 50px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.center-3-text-1{
+  color: #000;
+font-family: Ubuntu;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.center3-text-p1{
+  margin-left: 17%;
+  display: flex;
+  flex-direction: column;
+  gap: 2%;
+  width: 546px;
+  height: 244px;
+  flex-shrink: 0;
+  margin-top: 70px;
+ 
+}
+.center3-img{
+
+  width: 36%;
+  height: 19%;
+  margin-left: 30%;
+}
+.center-img{
+
+ margin-left: 3%;
+flex-shrink: 0;
+height: 373px;
+background-color: #84d68f;
+border-radius: 100%;
+margin-top: -45%;
+
+}
+.center3-text-p2{
+  margin-left: 60%;
+  margin-top: -30%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  width: 546px;
+  gap: 2%;
+ 
+ 
+
+}
+.pricture{
+margin-top: -48%;
+padding-bottom: 5%;
+}
+.center-4-text-p{
+  color: black;
+font-family: Ubuntu;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 52px; /* 173.333% */
+/* letter-spacing: -0.444px; */
+text-transform: capitalize;
+text-align: center;
+padding-top: 5%;
+margin-right: 17%;
+
+}
+.text-p2{
+ 
+  color: #3A3A3A;
+  text-indent: 0%;
+  font-family: Ubuntu;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 100;
+  margin-left: 22%;
+}
+.checked {
+  color: yellow;
+  
+}
+.center-profile{
+  border-radius: 67%;
+  
+  
+}
+.center-profile-div{
+  margin-left: 45%;
+}
+.profile-name{
+  margin-left: 2%;
+}
+.harve-img{
+  margin-left: 55%;
+  /* width: 160%px; */
+/* height: 140%; */
+flex-shrink: 0;
+margin-top: -25%;
+padding-bottom: 6%;
+}
+.center-5-text{
+  color: #FFF;
+  font-family: Ubuntu;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52px;
+  letter-spacing: -0.444px;
+  text-transform: capitalize;
+  margin-left: 4%;
+  padding: 10%;
+}
+.center-p{
+  background-color: #155E1E;
+ width: 56%;
+  height: 14%;
+  margin-top: -8%;
+  
+}
+.bt-c-5{
+  width: 239px;
+height: 60px;
+flex-shrink: 0;
+border-radius: 45px;
+background: rgba(255, 255, 255, 0.88);
+backdrop-filter: blur(15px);
+
+}
+.catagery-text{
+  color: #000;
+font-family: Ubuntu;
+font-size: 34px;
+font-style: normal;
+font-weight: 500;
+line-height: 70px; /* 205.882% */
+text-transform: capitalize;
+margin-left: 5%;
+margin-top: -5%;
+
+}
+.card-body{
+  border-radius: 30px;
+background: #FFF;
+box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.10);
+width: 300px;
+height: 137px;
+}
+.card-image{
+  width: 256px;
+height: 256px;
+margin-top: -2%;
+}
+.catagory-img{
+  border-radius: 30px;
+background: #FFF;
+box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.10);
+width: 200px;
+height: 137px;
+
+margin-left: 5%;
+padding-bottom: 15%;
+border-radius: 30px;
+background: rgba(152, 195, 71, 0.20);
+
+
+}
+.center-6-catagery{
+  display: flex;
+  padding: 4%;
+}
+.catagery-text{
+  color: black;
+  
+}
+.catagory-text-1{
+  color: #000;
+font-family: Ubuntu;
+font-size: 27px;
+font-style: normal;
+font-weight: 500;
+/* line-height: 70px;  */
+text-transform: capitalize;
+margin-left: 25%;
+}

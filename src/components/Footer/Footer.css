@@ -1,0 +1,43 @@
+.footer-img{
+    /* background-image: url(../Image/footer.png), lightgray 50% / cover no-repeat; */
+    background-image: url(../Image/Mask\ group.png),linear-gradient(rgb(206, 203, 203,.2),rgb(206, 203, 203,.2));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    margin-top: 5%;
+
+   
+}
+.ul-box,.ul-social
+{
+    display: flex;
+    width: 100%;
+    margin-top: 8%;
+   
+    
+}
+.ul-box li, .ul-social li{
+    list-style-type: none !important;
+    margin-left: 13px;
+ 
+
+}
+.ul-box li p ,.ul-social li p{
+    list-style-type: none !important;
+    font-family: Ubuntu;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.444px;
+color: #000;
+}
+footer{
+    background: #E4E4E4;
+    height: 100%;
+   
+}
+@media screen and (max-width: 992px) and (min-width:768px) {
+   
+  }

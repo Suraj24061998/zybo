@@ -1,0 +1,51 @@
+.accstyle{
+    width: 567px;
+height: 71px;
+flex-shrink: 0;
+
+}
+.accinput,.sucss-btn{
+    margin-top: 25px;
+}
+.accounthead{
+    background-image: url(../Image/accountimg.png);
+    background-position: center;
+    background-size: cover;
+    height: 680px;
+}
+.acctext{
+    margin-top: 35%;
+}
+
+.btn-success{
+    background-color: #5B9B3E;
+    border-radius: 55px;
+    width: 60%;
+
+}
+.btn-success:hover{
+    background-color: #5B9B3E;
+}
+.sigin{
+color: #EE4B22;
+font-family: Gilroy-Medium;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.sigin-p{
+    margin-top:4%;
+}
+
+.acctext{
+color: #000;
+font-family: ubutu;
+font-size: 95%;
+font-style: normal;
+font-weight: 200;
+line-height: 70px; /* 127.273% */
+text-transform: capitalize;
+padding-top: 4%;
+}
